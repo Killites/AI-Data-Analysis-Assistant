@@ -1,0 +1,6 @@
+streamli
+pandas
+matplotlib
+openpyxl
+google-genai
+python-dotenv
